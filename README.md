@@ -212,10 +212,7 @@ The dashboard demonstrates how fraud analytics can support:
 
 ## 🌐 Live Dashboard
 
-Live Streamlit Application:
-
-`Coming Soon`
-
+👉 [Open the Live Streamlit Dashboard](https://banking-fraud-intelligence-dashboard.streamlit.app)
 ---
 
 ## 📓 Analysis Notebook
