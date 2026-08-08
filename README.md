@@ -224,9 +224,10 @@ Complete preprocessing, EDA, feature engineering, risk scoring, and validation n
 👉 [Open the Analysis Notebook](Banking_Fraud_Risk_Analysis.ipynb)
 
 ---
-
 ## 🔗 Project Case Study
 
-Detailed project case study and documentation:
+Explore the complete end-to-end case study, including the business problem, data preparation, feature engineering, fraud analysis, risk scoring framework, out-of-sample validation, dashboard design, business insights, and recommendations.
+
+👉 [View the Full Banking Fraud Case Study](https://app.notion.com/p/Banking-Fraud-Transaction-Risk-Dashboard-3b571c52093f80d9b6ffc7351a573e68?source=copy_link)
 
 `Coming Soon`
