@@ -180,6 +180,7 @@ banking-fraud-dashboard/
 ├── Overview.py
 ├── requirements.txt
 ├── README.md
+├── Banking_Fraud_Risk_Analysis.ipynb
 │
 ├── data/
 │   ├── daily_summary.parquet
@@ -194,9 +195,9 @@ banking-fraud-dashboard/
     ├── 3_👥_Customer_Merchant_Risk.py
     ├── 4_🛡️_Risk_Monitoring.py
     └── 5_💡_Insights_Recommendations.py
-    
+```
 
-
+---
 
 ## 📌 Business Impact
 
@@ -213,6 +214,7 @@ The dashboard demonstrates how fraud analytics can support:
 ## 🌐 Live Dashboard
 
 👉 [Open the Live Streamlit Dashboard](https://banking-fraud-intelligence-dashboard.streamlit.app)
+
 ---
 
 ## 📓 Analysis Notebook
