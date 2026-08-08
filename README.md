@@ -219,7 +219,7 @@ The dashboard demonstrates how fraud analytics can support:
 
 Complete preprocessing, EDA, feature engineering, risk scoring, and validation notebook:
 
-`Coming Soon`
+👉 [Open the Analysis Notebook](Banking_Fraud_Risk_Analysis.ipynb)
 
 ---
 
